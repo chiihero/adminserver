@@ -1,0 +1,14 @@
+server:
+  port: 5260
+spring:
+  application:
+    name: SpringBootAdmin
+  boot:
+    admin:
+      ui:
+        title: SpringBootAdmin-Server
+
+  security:
+    user:
+      name:
+      password:
